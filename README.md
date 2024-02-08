@@ -13,7 +13,7 @@
 
 
  ### Hasil Implementasi
-<img src="public/design/hasil-pembuatan_day2.png" alt="Design FE"><br>
+<img src="public/design/hasil-pembuatan_study_jam_day_2.png" alt="Design FE"><br>
 
 ### Identifikasi Kebutuhan Untuk Membuat Halaman Kartu Profil (Card Profile)
 
