@@ -1,35 +1,24 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import Card_Profile from './Card_Profile'; // Import komponen Card_Profile
+import './App.css'; // Import file
+import imageVictor from './assets/img/profile/image-victor.jpg'; // Import gambar
 
-function App() {
-  const [count, setCount] = useState(0)
 
-  return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+const App = () => {
+    return (
+        // div Yang Menampung Isi Card Profile
+        <div className="app">
+            <Card_Profile
+                image={imageVictor}
+                name="Victor Crest"
+                age="26"
+                location="London"
+                followers="80K"
+                likes="803K"
+                photos="1.4K"
+            />
+        </div>
+        // div Yang Menampung Isi Card Profile
+    );
 }
 
-export default App
+export default App;
