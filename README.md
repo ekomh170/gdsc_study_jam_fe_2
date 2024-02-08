@@ -1,10 +1,16 @@
-# Study Jump Frontend #1
+# Study Jump Frontend Day #2 
 
-## Identifikasi Kebutuhan Untuk Membuat Halaman Kartu Profil (Card Profile)
+### Teknologi Yang Di Gunakan Dalam Membuat Aplikasi
 
-### Bahasa Pemograman Yang Di Gunakan :
-- HTML 
+- HTML
 - CSS
+- JS
+- Framework React.js
+
+ ### Hasil Implementasi
+<img src="public/design/hasil-pembuatan_day2.png" alt="Design FE"><br>
+
+### Identifikasi Kebutuhan Untuk Membuat Halaman Kartu Profil (Card Profile)
 
 ### Struktur Proses Berfikir Sebagai Frontend (FE) :
 - Kotak Kartu Profile 
@@ -33,8 +39,8 @@ Struktur Implemetasi Thinking Dalam Kodingan di HTML :
  ### Sumber Design
  https://www.frontendmentor.io/
 
- ### Gambar Design
-<img src="design/desktop-design.jpg" alt="Design FE"><br>
+# Study Jump Frontend Day #1
 
- ### Hasil Implementasi
-<img src="design/hasil-pembuatan.png" alt="Design FE"><br>
+## [GitHub Repository](https://github.com/ekomh170/gdsc_study_jump_fe_1.git)
+
+Di sini Anda dapat menemukan detail implementasi dan proyek studi jump frontend hari pertama.
