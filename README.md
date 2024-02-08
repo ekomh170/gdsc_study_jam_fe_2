@@ -1,11 +1,16 @@
-# Study Jump Frontend Day #2 
+# Study Jam Frontend Day #2 
 
-### Teknologi Yang Di Gunakan Dalam Membuat Aplikasi
+### Task FE DAY #2
 
-- HTML
-- CSS
-- JS
-- Framework React.js
+- Pindahkan Proyek Study Jam 1 -> Dengan Kerangka React JS
+- Menerapkan Metode Komponen React JS :
+    - src/ :
+        - App.jsx
+        - Card_Profile.jsx
+- Menerapkan Metode Props -> Agar Tipe Data Yang Diberikan atau diterima adalah string
+- src/ :
+    - Card_Profile.jsx 
+
 
  ### Hasil Implementasi
 <img src="public/design/hasil-pembuatan_day2.png" alt="Design FE"><br>
@@ -36,11 +41,17 @@ Struktur Implemetasi Thinking Dalam Kodingan di HTML :
         - jumlah suka
         - jumlah foto
 
+### Teknologi Yang Di Gunakan Dalam Membuat Aplikasi
+- HTML
+- CSS
+- JS
+- Framework React.js
+
  ### Sumber Design
  https://www.frontendmentor.io/
 
-# Study Jump Frontend Day #1
+# Study Jam Frontend Day #1
 
-## [GitHub Repository](https://github.com/ekomh170/gdsc_study_jump_fe_1.git)
+## [GitHub Repository](https://github.com/ekomh170/gdsc_study_Jam_fe_1.git)
 
-Di sini Anda dapat menemukan detail implementasi dan proyek studi jump frontend hari pertama.
+Di sini Anda dapat menemukan detail implementasi dan proyek studi Jam frontend hari pertama.
